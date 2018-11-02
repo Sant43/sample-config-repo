@@ -1,0 +1,11 @@
+{"git":
+	{ "uri": "https://github.com/Sant43/config-repo",
+	  "repos":
+		{ "sample":
+			{ "pattern": "messageApp",
+			  "uri": "https://github.com/Sant43/sample-config-repo"
+			}
+		}
+	},
+ "count": 1
+}
